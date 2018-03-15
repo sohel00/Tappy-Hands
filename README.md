@@ -5,4 +5,4 @@ it is a clone (remake) of the game that is available with the same name in the A
 
 ### Screenshots:
 
-<img src="Screenshots/1.PNG" width="270"/> <img src="Screenshots/2.PNG" width="270"/> <img src="Screenshots/3.PNG" width="270"/>
+<img src="Screenshots/1.png" width="270"/> <img src="Screenshots/2.png" width="270"/> <img src="Screenshots/3.png" width="270"/>
